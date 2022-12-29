@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textutils-reactnpm%20install%20--save%20gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/textutils-reactnpm%20install%20--save%20gh-pages/static/js/main.559007dd.js",
-    "static/js/787.719ec76d.chunk.js": "/textutils-reactnpm%20install%20--save%20gh-pages/static/js/787.719ec76d.chunk.js",
-    "index.html": "/textutils-reactnpm%20install%20--save%20gh-pages/index.html",
-    "main.073c9b0a.css.map": "/textutils-reactnpm%20install%20--save%20gh-pages/static/css/main.073c9b0a.css.map",
-    "main.559007dd.js.map": "/textutils-reactnpm%20install%20--save%20gh-pages/static/js/main.559007dd.js.map",
-    "787.719ec76d.chunk.js.map": "/textutils-reactnpm%20install%20--save%20gh-pages/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textutils-react/static/css/main.073c9b0a.css",
+    "main.js": "/textutils-react/static/js/main.f3d0bc6e.js",
+    "static/js/787.719ec76d.chunk.js": "/textutils-react/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textutils-react/index.html",
+    "main.073c9b0a.css.map": "/textutils-react/static/css/main.073c9b0a.css.map",
+    "main.f3d0bc6e.js.map": "/textutils-react/static/js/main.f3d0bc6e.js.map",
+    "787.719ec76d.chunk.js.map": "/textutils-react/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.559007dd.js"
+    "static/js/main.f3d0bc6e.js"
   ]
 }
